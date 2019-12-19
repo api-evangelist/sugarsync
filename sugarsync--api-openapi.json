@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "1",
+        "title": "SugarSync  API",
+        "description": "The SugarSync service presents a set of resources that your application can access through the Platform API. ",
+        "termsOfService": ""
+    },
+    "servers": [
+        "httpsapi.sugarsync.com\/"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
