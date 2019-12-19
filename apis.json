@@ -1,0 +1,134 @@
+{
+    "name": "SugarSync",
+    "description": "SugarSync is a cloud file sharing, file sync and online backup service that is simple, powerful and easy to use. Unlike Dropbox, SugarSync enables you to back up your existing folder structure. Try it for FREE for 30 days and get started today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/488-sugarsync-.jpg",
+    "tags": [
+        "backups",
+        "cloud",
+        "files",
+        "getting started example",
+        "have api",
+        "relative data",
+        "service api",
+        "storage",
+        "streams",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sugarsync\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SugarSync  API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/488-sugarsync-.jpg",
+            "humanURL": "http:\/\/sugarsync.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sugarsync--api-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/sugarsync--api.json"
+                }
+            ]
+        },
+        {
+            "name": "Sugar Sync  API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/488-sugarsync-.jpg",
+            "humanURL": "http:\/\/sugarsync.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sugar-sync--api-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/sugar-sync--api.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Application Gallery",
+            "url": "https:\/\/www.sugarsync.com\/partners\/"
+        },
+        {
+            "type": "Base",
+            "url": "https:\/\/api.sugarsync.com"
+        },
+        {
+            "type": "Best Practices",
+            "url": "https:\/\/www.sugarsync.com\/dev\/best-practices.html"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.sugarsync.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.sugarsync.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sugarsync"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/sugarsync"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.sugarsync.com\/developer"
+        },
+        {
+            "type": "Forums",
+            "url": "https:\/\/groups.google.com\/a\/developers.sugarsync.com\/forum\/#!forum\/platform-api\/join"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/www.sugarsync.com\/dev\/getting-started.html"
+        },
+        {
+            "type": "Glossary",
+            "url": "https:\/\/www.sugarsync.com\/dev\/glossary.html"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/sugarsync"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.sugarsync.com\/"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/www.sugarsync.com\/developer\/signup"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/www.sugarsync.com\/dev\/terms.html"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/SugarSync"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/sugarsync.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sugarsync.com"
+        }
+    ]
+}
