@@ -1,5 +1,5 @@
 {
-    "id": "94510883d6d8a74e378d97dc61e6e9cd",
+    "id": "925c3c9f7d81dae9c02999a9fecd0649",
     "name": "Sugar Sync  API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "975eacc0df9d58897d194194d0c97923",
+            "id": "ad645d57c7102f3ae6b6a3a95d8b5485",
             "name": "Retrieving Album Information",
             "url": "httpsapi.sugarsync.com\/\/album\/",
             "description": "To retrieve information about an album, an application submits an HTTP GET request to then          album resource that represents the album.",
@@ -51,11 +51,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "7daabe7a0e58fd21bdb03d52424d18b2",
+            "id": "77a07c3f10b232929140b2f105cd1e51",
             "name": "Creating a Refresh Token",
             "url": "httpsapi.sugarsync.com\/\/app-authorization",
             "description": "An application needs to be authorized to access a users SugarSync resources through the Platform API.nTo do that, the app needs to create a refresh token. When a user first runs the application, it creates a refresh tokennby submitting a POST request that includes the users credentials to the API.nIf the request is successful, the SugarSync service grants the application permission to access the users account and returns a refresh token.n",
@@ -96,11 +96,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "4cb734a256fd95ba6c27acc47ed13b47",
+            "id": "cc3f9480dde42a8bac13ced716831980",
             "name": "Creating an Access Token",
             "url": "httpsapi.sugarsync.com\/\/authorization",
             "description": "An application needs to be authorized to access a users SugarSync resources through the Platform API. To do that,nthe app needs to create an access token, which allows the app to access files, folders,nand other resources within a users account. After the token is created, the app needs to specify it in the HTTP request header when it makes a request through the API to access a resource.",
@@ -141,11 +141,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "d8d1d8dd0ca81bab782c5e6b1ce67f4f",
+            "id": "2a6bb9fdb4b39f75f205a119aea75458",
             "name": "Retrieving Contact Information",
             "url": "httpsapi.sugarsync.com\/\/contact\/",
             "description": "A contact represents another SugarSync user who has shared a folder or folders with this user.n          To retrieve information about a contact, an application submits an HTTP GET request to then          contact resource.",
@@ -164,11 +164,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "b4df49b086ca44b8e12671d4f2f7bb47",
+            "id": "17faa447d8c2fee695063ebb19cbb945",
             "name": "Retrieving File Data",
             "url": "httpsapi.sugarsync.com\/\/file",
             "description": "To retrieve file data, an application submits an HTTP GET request to then          file data resource that represents the data for the file.",
@@ -187,11 +187,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "d2d1fb284e3583a90ee0e88e5cda3e24",
+            "id": "615c0a0e6a28734b77dc5e28196df977",
             "name": "Uploading File Data",
             "url": "httpsapi.sugarsync.com\/\/file",
             "description": "An application can upload data to a file by issuing an HTTP PUT request to thenfile data resource that represents the data for the file.n          ",
@@ -210,11 +210,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "4b90d0f9339edd2907cb25d4c0543e51",
+            "id": "1498fe1bd545631588dbad76b29c05cc",
             "name": "Deleting a File",
             "url": "httpsapi.sugarsync.com\/\/file\/",
             "description": "An application can permanently delete a file by issuing an HTTP DELETE request to the URL of thenfile resource.nIts a good idea to precede DELETE requests like this with a caution note in your applications user interface.n",
@@ -233,11 +233,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "4c2f7313b825dd9c89c172e212cfc64a",
+            "id": "a7771718827e7bfec3230c7119142b0e",
             "name": "Retrieving File Information",
             "url": "httpsapi.sugarsync.com\/\/file\/",
             "description": "To retrieve information about a file, an application submits an HTTP GET request to then          file resource that represents the file.",
@@ -256,11 +256,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "b461f53ce89d5992ab5c24c38f3cfd69",
+            "id": "3e34da9936e723862030e4fa45bae03a",
             "name": "Creating a New File Version",
             "url": "httpsapi.sugarsync.com\/\/file\/",
             "description": "nAn application can create a new version of a file by submitting an HTTP POST request to the URL that represents the version history. The version history URL is returned in the &lt;versions&gt; element whenn retrieving information about a file.n",
@@ -279,11 +279,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "add367623f21b881db2512c8f5a8ee94",
+            "id": "3a89d8431e430c133f7d98217786a554",
             "name": "Updating File Information",
             "url": "httpsapi.sugarsync.com\/\/file\/",
             "description": "An application can update various attributes of a file by issuing an HTTP PUT request to the URL thatnrepresents the file resource. In addition, the app needs to provide as input, XML that identifies the new attribute values for the file. Upon receiving the PUT request, the SugarSync service examines the input and updates any of the attributes that have been modified.",
@@ -331,11 +331,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "a9680dea3b9b8b62bb918264f686fdc3",
+            "id": "60cc6a4947bbaf507b9e2f5c33de6134",
             "name": "Retrieving Folder Information",
             "url": "httpsapi.sugarsync.com\/\/folder",
             "description": "To retrieve information about a folder, an application submits an HTTP GET request to then          folder resource that represents the folder.",
@@ -354,11 +354,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "36235c1594bd31f8ea65c22a64c7ca48",
+            "id": "c787632dab99e3033b6f0a3403c5250d",
             "name": "Deleting a Folder",
             "url": "httpsapi.sugarsync.com\/\/folder\/",
             "description": "An application can permanantly delete a folder by issuing an HTTP DELETE request to the URL of thenfolder resource.nIts a good idea to precede DELETE requests like this with a caution note in your applications user interface.n          ",
@@ -377,11 +377,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "ac7b5239baefd2fa60ef0a848ccedb23",
+            "id": "add07d36a4d62edf9d7d6f0498903f49",
             "name": "Retrieving Folder Contents",
             "url": "httpsapi.sugarsync.com\/\/folder\/",
             "description": "To retrieve the contents of a folder, an application submits an HTTP GET request to the URLn          that represents the folder contents.",
@@ -429,11 +429,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "76eead0a6650df50ae23dec2e64b1683",
+            "id": "31416e9744c40eb0c1128949d3dece87",
             "name": "Creating a Folder",
             "url": "httpsapi.sugarsync.com\/\/folder\/",
             "description": "An application can create a folder within another folder by issuing an HTTP POST request to the URL ofnthe containing folder resource.nIn addition, the application needs to provide as input, XML that identifies the display name of the folder to be created.nNote that an application can create a folder only within another folder, and not directly in a workspace.",
@@ -481,11 +481,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "39ba9b9dd437c1971a1ad09a7b0c7c47",
+            "id": "6a7fdde13b704f2d96deb7e6e1915029",
             "name": "Updating Folder Information",
             "url": "httpsapi.sugarsync.com\/\/folder\/",
             "description": "An application can update various attributes of a folder by issuing an HTTP PUT request to the URL thatnrepresents the folder resource. In addition, the app needs to provide as input, XML that identifies the new attribute values for the folder. Upon receiving the PUT request, the SugarSync service examines the input and updates any of the attributes that have been modified.",
@@ -533,11 +533,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "f739eb7ef0351b0ccdfb35bfd1098734",
+            "id": "e5b51f5201d5031dced397432dc8b79a",
             "name": "Retrieving Received Share Information",
             "url": "httpsapi.sugarsync.com\/\/receivedShare\/",
             "description": "To retrieve information about a received share (that is, a shared folder owned by another user and to whichnthis user has been granted access privileges by the owner), an application submits an HTTP GET request to the URLnthat represents the received share resource. The URL is referenced in the &lt;receivedShare&gt; element for the received share in the received shares list.nSee Retrieving the Received Shares List.",
@@ -556,11 +556,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "f05e6b4c564c1dfe72d1f3ad1d42b04d",
+            "id": "c5fd3d6a2be8ba9a90c965c071d8a58e",
             "name": "Retrieving User Information",
             "url": "httpsapi.sugarsync.com\/\/user",
             "description": "To retrieve information about a SugarSync user, an application submits an HTTP GET request to thenuser resource that represents the user.",
@@ -594,11 +594,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "ca05d986e26c2dbfff94db8f0a073c06",
+            "id": "d584b83f3d6275bdc0905d2107d09d3f",
             "name": "Retrieving Received Shares List",
             "url": "httpsapi.sugarsync.com\/\/user\/",
             "description": "One of the elements in the representation of a user resource isn&lt;receivedShares&gt;.nThe element contains a link to a list that describes the shared folders that are owned by other users and to which this user has been granted access privileges by those owners. For example:nnn&lt;?xml version=1.0 encoding=UTF-8?&gt;n&lt;user&gt;n  ...n  &lt;receivedShares&gt;https:\/\/api.sugarsync.com\/user\/5664947\/receivedShares\/contents&lt;\/receivedShares&gt;n  ...n&lt;\/user&gt;nnn          To retrieve the li",
@@ -632,11 +632,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "f0dc3721434e9e2c0fd9a3867225566c",
+            "id": "c758e7a4bc68611564d987cb4054a4cb",
             "name": "Retrieving Workspace Information",
             "url": "httpsapi.sugarsync.com\/\/workspace",
             "description": "To retrieve information about a workspace, an application submits an HTTP GET request to then          workspace resource that represents the workspace.",
@@ -655,11 +655,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "6cbd3e792a0e77a2b814920057ef4360",
+            "id": "275761ddd908eb9144a40fddec6ff7b1",
             "name": "Retrieving Workspace Contents",
             "url": "httpsapi.sugarsync.com\/\/workspace\/",
             "description": "To retrieve the contents of a workspace, an application submits an HTTP GET request to the URLn          that represents the workspace contents. Note that the contents of a workspace are the sync folders that are mappedntt  to that workspace in SugarSync.",
@@ -707,11 +707,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         },
         {
-            "id": "23bbfd4e81b359cfa4570e2ab39b104c",
+            "id": "4536d25a76f96559f3f691e8b0cdc71f",
             "name": "Updating Workspace Information",
             "url": "httpsapi.sugarsync.com\/\/workspace\/",
             "description": "An application can update attributes of a workspace by issuing an HTTP PUT request to the URL that representsnthe workspace resource. In addition, the app needs to provide as input, XML that identifies the new attribute values for the workspace.nUpon receiving the PUT request, the SugarSync service examines the input and updates any of the attributes that have been modified.",
@@ -759,7 +759,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "94510883d6d8a74e378d97dc61e6e9cd",
+            "collectionId": "925c3c9f7d81dae9c02999a9fecd0649",
             "rawModeData": ""
         }
     ]
