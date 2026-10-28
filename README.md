@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SugarSync is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://sugarsync.com/
+SugarSync provides cloud file syncing, sharing, and backup services across devices, offering personal and business plans with secure storage, collaboration tools, and mobile apps. Users can store, sync, and share files, photos, and videos, with features like versioning, folder sharing, and automated backups, accessible via web, desktop, and mobile applications.
+
+**Areas:** Cloud Storage · File Sync · Backup · Collaboration · Business
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www1.sugarsync.com/)
+- [Documentation](https://www1.sugarsync.com/developer)
+- [Getting started](https://www1.sugarsync.com/developer/getting-started)
+- [Pricing](https://www1.sugarsync.com/pricing/)
+- [Support](https://support.sugarsync.com/hc/en-us)
+- [Terms of service](https://www.sugarsync.com/terms)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/sugarsync/](https://apis.io/providers/sugarsync/).
